@@ -184,6 +184,8 @@ text-decoration: none;}
 
 /*media*/
 @media only screen and (max-width: 1100px) {
+    .div5{margin-top:0rem;
+        padding:1rem;}
     header div {
       left: 60%;
     }
@@ -230,3 +232,8 @@ body{background-size:auto;}
           }
       
   }
+
+   @media only screen and (max-width: 600px) {
+        .div5{margin-top:0rem;
+            padding:1rem;}
+      }
