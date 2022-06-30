@@ -213,3 +213,13 @@ margin-left: -3%;}
 
 
   }
+
+  @media only screen and (max-width: 1100px) {
+body{background-size:auto;}
+    footer{display: block;}
+    .btn2 img{width: 12%;}
+    header div {
+        display: block;
+        left: 60%;
+      }
+  }
